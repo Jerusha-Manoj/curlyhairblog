@@ -1,5 +1,6 @@
 ---
 layout: product_reviews
+permalink: /product_reviews/
 title: Product Reviews
 ---
 
