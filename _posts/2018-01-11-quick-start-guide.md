@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: product_reviews
 title: "Click here for product reviews"
 author: sal
 categories: [ things , reviews ]
