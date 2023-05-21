@@ -9,7 +9,6 @@ post_class: post-template
 ================================================== -->
 <div class="container">
     <div class="row">
-
         <div class="col-md-12">
             <div class="mainheading">
                 <h1 class="posttitle">{{ page.title }}</h1>
@@ -19,16 +18,13 @@ post_class: post-template
         <div class="col-md-12">
             <div class="article-post">
                 <div class="product-reviews">
-                    {% for product in site.products %}
-                        <div class="review">
-                            <h2>{{ product.title }}</h2>
-                            <p>{{ product.content | markdownify }}</p>
-                        </div>
-                    {% endfor %}
+                    <div class="review">
+                        <h2>{{ page.title }}</h2>
+                        <p>{{ page.content | markdownify }}</p>
+                    </div>
                 </div>
             </div>
         </div>
-
     </div>
 </div>
 <!-- End Article
@@ -73,4 +69,3 @@ https://search.google.com/structured-data/testing-tool/u/0/
 }
 </script>
 {% endif %}
-
