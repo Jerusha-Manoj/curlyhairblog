@@ -1,13 +1,5 @@
 ---
 layout: product_reviews
-permalink: /product_reviews/
-title: Product Reviews
+title: Review 1
 ---
-
-This is the content of the product reviews page.
-
-{% for product in site.products %}
-## {{ product.title }}
-
-{{ product.content }}
-{% endfor %}
+Review 1 content.
