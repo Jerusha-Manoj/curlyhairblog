@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<a href='/reviews.html'>Click here for product reviews</a>"
+title: "Click here for product reviews"
 author: sal
 categories: [ things , reviews ]
 image: assets/images/12.jpg
