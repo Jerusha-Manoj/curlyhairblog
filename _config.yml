@@ -3,7 +3,7 @@ name: "Curl-Diaries"
 title: "Curl Diaries"
 description: "Hi, I made this blog to write reviews on curly hair products, answer questions, and provide hairstyles and tips"
 logo: 'assets/images/blog_logo.png'
-favicon: 'assets/images/blog_logo.png'
+favicon: 'assets/images/logo.png'
 #baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
