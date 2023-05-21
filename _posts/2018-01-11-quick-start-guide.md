@@ -2,7 +2,7 @@
 layout: post
 title: "[Click here for product reviews](/reviews.html)"
 author: sal
-categories: [ product, reviews ]
+categories: [ things , reviews ]
 image: assets/images/12.jpg
 featured: true
 #hidden: true
