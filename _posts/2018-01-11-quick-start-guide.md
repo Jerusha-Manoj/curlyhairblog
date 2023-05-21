@@ -5,7 +5,7 @@ author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
 featured: true
-hidden: true
+hidden: flase
 
 <!-- Posts Index
 ================================================== -->
@@ -28,7 +28,3 @@ hidden: true
     </div>
 
 </section>
-
-<!-- Pagination
-================================================== -->
----
