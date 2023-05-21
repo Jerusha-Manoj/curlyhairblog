@@ -2,7 +2,7 @@
 layout: post
 title:  "Click here for product reviews"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ product, reviews ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
