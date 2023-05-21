@@ -18,10 +18,12 @@ post_class: post-template
         <div class="col-md-12">
             <div class="article-post">
                 <div class="product-reviews">
-                    <div class="review">
-                        <h2>{{ page.title }}</h2>
-                        <p>{{ page.content | markdownify }}</p>
-                    </div>
+                    {% for product in site.products %}
+                        <div class="review">
+                            <h2>{{ product.title }}</h2>
+                            <p>{{ product.content | markdownify }}</p>
+                        </div>
+                    {% endfor %}
                 </div>
             </div>
         </div>
