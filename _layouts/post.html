@@ -9,13 +9,12 @@ post_class: post-template
   <h1>Product Reviews</h1>
 
   <ul>
-    {% for post in site.posts %}
-      {% if post.categories contains 'product' %}
-        <li>
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          <p>{{ post.date | date: "%B %d, %Y" }}</p>
-        </li>
-      {% endif %}
+    {% assign filtered_posts = site.posts | where_exp: "post", "post.categories contains 'product'" %}
+    {% for post in filtered_posts %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.date | date: "%B %d, %Y" }}</p>
+      </li>
     {% endfor %}
   </ul>
 {% endif %}
