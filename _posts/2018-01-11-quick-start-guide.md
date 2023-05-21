@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Click here for product reviews"
-[Click here for product reviews](/reviews/)
 author: sal
 categories: [ product, reviews ]
 image: assets/images/12.jpg
