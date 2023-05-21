@@ -5,10 +5,10 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <div class="product-reviews">
-  {% for review in site.product_reviews %}
-    <div class="review">
-      <h2>{{ review.title }}</h2>
-      <p>{{ review.content }}</p>
+  {% for product in site.products %}
+    <div class="product-review">
+      <h2>{{ product.title }}</h2>
+      <p>{{ product.content }}</p>
     </div>
   {% endfor %}
 </div>
