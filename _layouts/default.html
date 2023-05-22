@@ -64,11 +64,7 @@ ga('send', 'pageview');
 					<li class="nav-item">
 						<a class="nav-link" href="{{ site.baseurl }}/about">About</a>
 					</li>
-					{% if page.url != "/" %}
-						<li class="nav-item">
-							<a class="nav-link" href="{{ site.baseurl }}/#search" data-toggle="collapse" data-target=".navbar-collapse.show">Search</a>
-						</li>
-					{% endif %}
+					{% include search-lunr.html %}
 				</ul>
 				<!-- End Menu -->
 			</div>
