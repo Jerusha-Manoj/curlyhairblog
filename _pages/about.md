@@ -20,7 +20,10 @@ That's why I created this blog — to address the recurring questions and commen
 
 However, it's important to note that individual experiences and opinions may vary. Every person's hair is unique, and what works for me may not necessarily work for everyone. I hope that this blog is helpful for you and creates a little more convenience in your curly hair journey!</p>
     
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}assets/images/about-me-1.png" alt="jekyll template mediumish" /></p>
+<p class="mb-5">
+  <img class="shadow-lg" src="{{site.baseurl}}/assets/images/about-me-1.png" alt="About Me Image" />
+</p>
+
 
   </div>
 </div>
