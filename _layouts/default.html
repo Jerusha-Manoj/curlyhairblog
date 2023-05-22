@@ -36,7 +36,6 @@ ga('send', 'pageview');
 <body class="{{layout}}">
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
-		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 	</noscript>
 
@@ -64,6 +63,9 @@ ga('send', 'pageview');
 					<li class="nav-item">
 						<a class="nav-link" href="{{ site.baseurl }}/about">About</a>
 					</li>
+					<li class="nav-item">
+						<a target="_blank" class="nav-link" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">Docs</a>
+					</li>
 					{% include search-lunr.html %}
 				</ul>
 				<!-- End Menu -->
@@ -81,6 +83,7 @@ ga('send', 'pageview');
 					{{ site.description }}
 				</p>
 			</div>
+
 			<!-- Content -->
 			<div class="main-content">
 				{{ content }}
@@ -101,7 +104,7 @@ ga('send', 'pageview');
 			</div>
 			{% endif %}
 		</div>
-		
+
 		<!-- Categories Jumbotron -->
 		<div class="jumbotron fortags">
 			<div class="d-md-flex h-100">
@@ -125,24 +128,66 @@ ga('send', 'pageview');
 				</div>
 			</div>
 		</div>
-		
-		<!-- Begin Footer -->
-		<footer class="footer">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6 col-sm-6 text-center text-lg-left">
-						Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
-					</div>
-					<div class="col-md-6 col-sm-6 text-center text-lg-right">
-						<a href="{{ site.baseurl }}/privacy-policy">Privacy Policy</a>
+
+		<!-- Tags Jumbotron -->
+		<div class="jumbotron fortags">
+			<div class="d-md-flex h-100">
+				<div class="col-md-8 p-5 align-self-center text-center">
+					{% for tag in site.tags %}
+						<a class="mt-1 mb-1" href="{{site.baseurl}}/tags#{{ tag[0] | url_escape | strip | replace: ' ', '-' }}">{{ tag[0] }} ({{ tag[1].size }})</a>
+					{% endfor %}
+				</div>
+				<div class="col-md-4 transpdark align-self-center text-center h-100">
+					<div class="d-md-flex align-items-center justify-content-center h-100">
+						<h2 class="d-md-block align-self-center py-1 font-weight-light">Tags <span class="d-none d-md-inline">→</span></h2>
 					</div>
 				</div>
 			</div>
-		</footer>
-		<!-- End Footer -->
+		</div>
+
+		<!-- Pagination -->
+		<div class="pagination justify-content-center mb-4">
+			{% if paginator.total_pages > 1 %}
+				{% if paginator.previous_page %}
+					<a class="newer-posts" href="{{site.baseurl}}/page{{paginator.previous_page}}">&larr; Newer Posts</a>
+				{% endif %}
+				{% if paginator.next_page %}
+					<a class="older-posts" href="{{site.baseurl}}/page{{paginator.next_page}}">Older Posts &rarr;</a>
+				{% endif %}
+			{% endif %}
+		</div>
 	</div>
 
-	<script src="{{ site.baseurl }}/assets/js/bootstrap.bundle.min.js"></script>
-	<script src="{{ site.baseurl }}/assets/js/page.js"></script>
+	<!-- Footer -->
+	<footer class="footer text-center py-4 mt-5">
+		<p class="text-muted mb-0">
+			&copy; {{ site.name }} {% if site.time | date: "%Y" > "2021" %} - {{ site.time | date: "%Y" }} {% endif %}
+			<br>
+			Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://getbootstrap.com/">Bootstrap</a>
+		</p>
+		<p class="text-muted mb-0">
+			<!-- Please don't remove this -->
+			Theme <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">Mediumish</a> by <a href="https://bootstrapstarter.com/">Bootstrap Starter</a>
+		</p>
+	</footer>
+
+	<!-- Scripts -->
+	<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+	<script src="{{ site.baseurl }}/assets/js/clean-blog.min.js"></script>
+	<script src="{{ site.baseurl }}/assets/js/lunr.min.js"></script>
+	<script src="{{ site.baseurl }}/assets/js/search.js"></script>
+	<script>
+		var loadDeferredStyles = function() {
+			var addStylesNode = document.getElementById("deferred-styles");
+			var replacement = document.createElement("div");
+			replacement.innerHTML = addStylesNode.textContent;
+			document.body.appendChild(replacement)
+			addStylesNode.parentElement.removeChild(addStylesNode);
+		};
+		var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+				webkitRequestAnimationFrame || msRequestAnimationFrame;
+		if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+		else window.addEventListener('load', loadDeferredStyles);
+	</script>
 </body>
 </html>
