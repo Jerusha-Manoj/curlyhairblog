@@ -10,14 +10,22 @@ comments: true
 
     <h2>Introduction</h2>
 
-    <p>Hi everyone! My name is Jerusha Manoj but you might know me as @__jerryyy__ on tiktok. Jerry is a nickname that my friends call me. I started my tiktok for fun but I noticed I got a lot of comments about my hair. I started responding to comments with my curly hair routine and hairstyles and people told me I was helping them. So I continued to post about my hair. Throughout the years I had struggled with my hair. I felt like hair products didn't work for me and I spent a lot to find something that could work. I researched my hair and found out about the importance of hair porosity and hair type. Once I found out that I had low porosity hair and, according the online hair quizzes, 3B curls, I started finding products that worked for me. I created this blog because I had a lot of the same tiktok comments. I thought the easiest way to address them was to create/code a website everyone could go to. I'm happy to share what I'm learning about my hair and to review products that worked for me. I want to add a disclaimer that you might have different results or different opinions, and that's okay. Everyone's hair is different :)</p>
+    <p>Hi everyone! My name is Jerusha Manoj, but you may know me as @__jerryyy__ on TikTok. Jerry is a nickname that my friends call me. Initially, I joined TikTok just for fun, but I quickly noticed that my hair became a popular topic among the comments I received. So I made videos on my curly hair routines and hairstyles. People started reaching out, expressing how my videos were helpful to them. Encouraged by their positive feedback, I decided to continue sharing my hair journey on the platform.
+
+Over the years, I personally faced numerous challenges with my hair. It often felt like hair products just didn't deliver the results I desired, leading me to invest significant time and resources in search of a solution. My quest led me to delve deeper into the science of hair care, particularly understanding the significance of hair porosity and hair type.
+
+After discovering that I have low porosity hair and, according to online hair quizzes, 3B curls, I went on a journey to find suitable products that could truly help my hair. This was a game-changer for me, and I was happy to share my findings with others.
+
+That's why I created this blog — to address the recurring questions and comments I received on TikTok. I wanted to provide a platform where everyone could access valuable information. Through this blog, I'm delighted to share my learnings about my hair and offer reviews of products that have worked wonders for me.
+
+However, it's important to note that individual experiences and opinions may vary. Every person's hair is unique, and what works for me may not necessarily work for everyone. Embracing our differences is what makes us beautiful.</p>
 
 
-![About Me Image](/assets/imgages/about-me-1.png)
+![About-Me-Image](/assets/images/about-me-2.png)
 
 
 
-    <p>I am a south asian woman, a malayalee, that loves to create, learn, and try new things. I am an engineering student at the University of Michigan. I hope that this blog is helpful for you and creates a little more convenience in your curly hair journey!</p>
+    <p>I am an engineering student at the University of Michigan. I hope that this blog is helpful for you and creates a little more convenience in your curly hair journey!</p>
 
   </div>
 </div>
