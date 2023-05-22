@@ -1,35 +1,28 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Me
 permalink: /about
 comments: true
 ---
 
 <div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+  <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+    <h2>Introduction</h2>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+    <p>Hi everyone! My name is Jerusha Manoj but you might know me as @__jerryyy__ on tiktok. Jerry is a nickname that my friends call me. I started my tiktok for fun but I noticed I got a lot of comments about my hair. I started responding to comments with my curly hair routine and hairstyles and people told me I was helping them. So I continued to post about my hair. Throughout the years I had struggled with my hair. I felt like hair products didn't work for me and I spent a lot to find something that could work. I researched my hair and found out about the importance of hair porosity and hair type. Once I found out that I had low porosity hair and, according the online hair quizzes, 3B curls, I started finding products that worked for me. I created this blog because I had a lot of the same tiktok comments. I thought the easiest way to address them was to create/code a website everyone could go to. I'm happy to share what I'm learning about my hair and to review products that worked for me. I want to add a disclaimer that you might have different results or different opinions. Everyone's hair is different :)</p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+    <h2>Images</h2>
 
-<h4>Questions or bug reports?</h4>
+    <p>Place three images here to showcase your work, using the following Markdown syntax:</p>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<!--     ![Image Description 1](/path/to/image1.jpg)
+    ![Image Description 2](/path/to/image2.jpg)
+    ![Image Description 3](/path/to/image3.jpg) -->
 
-</div>
+    <h2>About Me</h2>
 
-<div class="col-md-4">
+    <p>I am a south asian woman, a malayalee, that loves to create, learn, and try new things. I am an engineering student at the University of Michigan. I hope that this blog is helpful for you and creates a little more convenience in your curly hair journey!</p>
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
+  </div>
 </div>
