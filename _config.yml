@@ -1,7 +1,7 @@
 # Site
 name: "Curl-Diaries"
 title: "Curl Diaries"
-description: "Hi, I made this blog to write reviews on curly hair products, and hair-care. Click on any title that interests you :)"
+description: "Hi, I made this blog to write reviews on curly hair products and hair-care. Click on any title that interests you :)"
 logo: 'assets/images/logocd.jpg'
 favicon: 'assets/images/logocd.jpg'
 #baseurl: /mediumish-theme-jekyll
