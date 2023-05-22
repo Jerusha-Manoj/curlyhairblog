@@ -1,7 +1,7 @@
 # Site
 name: "Curl-Diaries"
 title: "Curl Diaries"
-description: "Hi, I made this blog to write reviews on curly hair products, hairstyles, hair-trends, and hair-care. I will also provide links to products :)"
+description: "Hi, I made this blog to write reviews on curly hair products, hairstyles, hair-trends, and hair-care. Go to my Amazon storefront next to "About" to buy products :)"
 logo: 'assets/images/blog_logo.png'
 favicon: 'assets/images/blog_logo.png'
 #baseurl: /mediumish-theme-jekyll
