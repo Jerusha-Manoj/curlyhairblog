@@ -2,7 +2,6 @@
 layout: page
 title: About Me
 permalink: /about
-image: assets/images/about-me-1.png
 comments: true
 ---
 
@@ -20,6 +19,8 @@ After discovering that I have low porosity hair and, according to online hair qu
 That's why I created this blog — to address the recurring questions and comments I received on TikTok. I wanted to provide a platform where everyone could access this information. Through this blog, I'm happy to share my learnings about my hair and offer reviews of products that have worked/not worked for me.
 
 However, it's important to note that individual experiences and opinions may vary. Every person's hair is unique, and what works for me may not necessarily work for everyone. I hope that this blog is helpful for you and creates a little more convenience in your curly hair journey!</p>
+    
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}assets/images/about-me-1.png" alt="jekyll template mediumish" /></p>
 
   </div>
 </div>
