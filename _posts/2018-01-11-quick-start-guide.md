@@ -1,27 +1,17 @@
 ---
 layout: post
-title:  "Click here for product reviews"
+title:  "Camille Rose : Curl Love Moisture Milk"
 author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+categories: [ product, leave-in ]
+image: assets/images/rose.jpg
+description: "My review of Camille Rose : Curl Love Moisture Milk Leave in "
 featured: true
 hidden: true
+rating: 4.0
 ---
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
-
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
-
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
-
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
-
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
-
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
-
-#### So how do we do spoilers?
-
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
-
+The Camille Rose Curl Love Moisture Milk Leave-in is a popular hair product that is said to provide moisture, definition, and shine. Here is my review of the product.
+Firstly, I like its ingredient list. It is formulated with natural ingredients such as water, rice milk, green tea extract, and aloe vera juice. These ingredients are known for their hydrating and nourishing properties. The absence of sulfates, parabens, and artificial additives is also a plus for those seeking more natural hair care options.
+The scent of this leave-in conditioner is amazing. It smells like cupcakes to me. It might be overpowering to those who don’t like the smell of sweets.
+When it comes to performance, this leave-in conditioner does deliver on its promise of providing moisture to the hair. However, for those with extremely tight or unruly curls, additional styling products may be needed to achieve the desired level of definition and hold.
+Also, I noticed that, for me atleast, the definition of my curls went away over time. I later learned that it has to do with the fact that I have low-porosity hair. ISome products do wonders for me but only for a short amount of time. Then my hair goes back to being frizzy. This product fits into that category. If you have low porosity hair you want to make sure to not over moisturize.  It can cause problems like said. It was unfortunate because when this product worked for me, it worked well.
+Overall, the Camille Rose Curl Love Moisture Milk Leave-in is a reliable and effective option for those with curly and coily hair. I would suggest this to people who have thicker and normal/high porosity hair.
