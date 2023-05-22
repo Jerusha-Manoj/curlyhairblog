@@ -7,7 +7,7 @@ image: assets/images/products/rose.jpg
 description: "My review of Camille Rose : Curl Love Moisture Milk Leave in "
 featured: true
 hidden: true
-rating: 3.75
+rating: 3
 ---
 The Camille Rose Curl Love Moisture Milk Leave-in is a popular hair product that is said to provide moisture, definition, and shine. Here is my review of the product.
 Firstly, I like its ingredient list. It is formulated with natural ingredients such as water, rice milk, green tea extract, and aloe vera juice. These ingredients are known for their hydrating and nourishing properties. The absence of sulfates, parabens, and artificial additives is also a plus for those seeking more natural hair care options.
