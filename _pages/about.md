@@ -21,7 +21,7 @@ That's why I created this blog — to address the recurring questions and commen
 However, it's important to note that individual experiences and opinions may vary. Every person's hair is unique, and what works for me may not necessarily work for everyone. Embracing our differences is what makes us beautiful.</p>
 
 
-![About-Me-Image](/assets/images/about-me-2.png)
+![About-Me-Image](/assets/images/about-me-1.png)
 
 
 
