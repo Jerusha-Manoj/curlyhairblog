@@ -2,7 +2,7 @@
 layout: post
 title: "Hair Spray Bottle"
 author: sal
-categories: [ product, spray-bottle ]
+categories: [ spray-bottle ]
 image: assets/images/products/spraybottle.jpg
 rating: 5
 ---
