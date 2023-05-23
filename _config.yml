@@ -2,8 +2,8 @@
 name: "Curl-Diaries"
 title: "Curl Diaries"
 description: "Hi, I made this blog to write reviews on curly hair products and hair-care. Click on any title that interests you :)"
-logo: 'assets/images/logocd.jpg'
-favicon: 'assets/images/logocd.jpg'
+logo: 'assets/images/logoc-d.jpg'
+favicon: 'assets/images/logoc-d.jpg'
 #baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
