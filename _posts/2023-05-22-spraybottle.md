@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hair Spray Bottle"
+title: "Misting Spray Bottle"
 author: sal
 categories: [ spray-bottle ]
 image: assets/images/products/spraybottle.jpg
