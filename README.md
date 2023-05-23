@@ -1,21 +1,23 @@
 # CurlyHairBlog
 
-CurlyHairBlog is a blog built using a Jekyll template that serves as a platform for reviewing curly hair products and providing curly hair tips. The blog aims to help curly-haired individuals make informed decisions about products based on personal experiences and recommendations.
+CurlyHairBlog is a blog built using a Jekyll template, demonstrating my skills in web development, content creation, and providing valuable information for the curly hair community. The purpose of this blog is to review curly hair products based on my personal experience, while also offering curly hair tips to help individuals with their hair care routines.
 
-With a growing TikTok following of 7k followers and 300k likes, CurlyHairBlog was created to offer an easy way for your TikTok audience to access product reviews and your thoughts in one place.
+## About Me
+
+I am a passionate curly hair enthusiast with a TikTok following of 7k followers and 300k likes. Given the demand for product recommendations and information, I decided to create this blog to provide my TikTok audience with an easy-to-access platform for detailed product reviews and helpful tips.
 
 ## Features
 
-- **Review Posts**: The blog homepage displays a collection of review posts, each featuring a title and a preview. Clicking on a post's title allows users to read the full review.
-- **Navigation Menu**: The navigation menu offers three options: the blog homepage, an about me page, and a search bar for convenient browsing.
-- **Pagination**: To accommodate a growing number of review posts, the blog supports multiple pages for displaying the reviews. Users can navigate to the next page using the "Next" button located above the tags section.
-- **Categories Jumbotron**: At the bottom of every page, a Categories Jumbotron provides clickable tags that filter and display reviews related to specific categories. For example, clicking on the "Products" tag shows reviews specifically focused on different products.
+- **Review Posts**: The blog homepage showcases a collection of review posts, each offering a title and a preview. Clicking on a post's title provides users with an in-depth review.
+- **User-Friendly Navigation**: The navigation menu consists of three main sections: the blog homepage, an about me page , and a search bar for convenient browsing.
+- **Pagination**: With the growing number of review posts, the blog supports multiple pages to ensure a seamless reading experience. Users can navigate through the pages using the "Next" button located above the tags section.
+- **Categories Jumbotron**: At the bottom of each page, a Categories Jumbotron offers clickable tags for easy filtering of reviews. Users can explore specific categories such as "Products" to find relevant reviews.
 
-## Installation
+## Project Setup
 
-To install and set up the CurlyHairBlog project, follow these steps:
+To explore the CurlyHairBlog project locally and assess my technical skills, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/curlyhairblog.git`
+1. Clone the repository: `git clone https://github.com/Jerusha-Manoj/curlyhairblog.git`
 2. Navigate to the project directory: `cd curlyhairblog`
 3. Install dependencies: `bundle install`
 4. Run the Jekyll server: `bundle exec jekyll serve`
@@ -23,13 +25,7 @@ To install and set up the CurlyHairBlog project, follow these steps:
 
 ## Contributing
 
-Contributions to CurlyHairBlog are welcome! If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository and create a new branch for your contribution.
-2. Make your changes and ensure they are properly tested.
-3. Commit your changes with descriptive commit messages.
-4. Push your changes to your forked repository.
-5. Submit a pull request, clearly explaining the purpose and benefits of your contribution.
+Contributions to CurlyHairBlog are not currently accepted as this project is a personal blog. However, I appreciate your interest and encourage you to explore the codebase and learn from it.
 
 ## License
 
