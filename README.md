@@ -1,6 +1,6 @@
-# CurlyHairBlog
+# Curl-Diaries (curlyhairblog)
 
-CurlyHairBlog is a blog built using a Jekyll template, demonstrating my skills in web development, content creation, and providing valuable information for the curly hair community. The purpose of this blog is to review curly hair products based on my personal experience, while also offering curly hair tips to help individuals with their hair care routines.
+Curl-Diaries is a blog built using a Jekyll template, demonstrating my skills in web development, content creation, and providing valuable information for the curly hair community. The purpose of this blog is to review curly hair products based on my personal experience, while also offering curly hair tips to help individuals with their hair care routines.
 
 ## About Me
 
@@ -13,9 +13,11 @@ I am a passionate curly hair enthusiast with a TikTok following of 7k followers 
 - **Pagination**: With the growing number of review posts, the blog supports multiple pages to ensure a seamless reading experience. Users can navigate through the pages using the "Next" button located above the tags section.
 - **Categories Jumbotron**: At the bottom of each page, a Categories Jumbotron offers clickable tags for easy filtering of reviews. Users can explore specific categories such as "Products" to find relevant reviews.
 
+<img width="1438" alt="website" src="https://github.com/Jerusha-Manoj/Jerusha-Manoj/assets/133903427/8f5d5fab-1983-41d1-aa23-b7349d878597">
+
 ## Project Setup
 
-To explore the CurlyHairBlog project locally and assess my technical skills, follow these steps:
+To explore the Curl-Diaries project locally and assess my technical skills, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Jerusha-Manoj/curlyhairblog.git`
 2. Navigate to the project directory: `cd curlyhairblog`
@@ -25,14 +27,14 @@ To explore the CurlyHairBlog project locally and assess my technical skills, fol
 
 ## Contributing
 
-Contributions to CurlyHairBlog are not currently accepted as this project is a personal blog. However, I appreciate your interest and encourage you to explore the codebase and learn from it.
+Contributions to Curl-Diaries are not currently accepted as this project is a personal blog. However, I appreciate your interest and encourage you to explore the codebase and learn from it.
 
 ## License
 
-CurlyHairBlog is licensed under the MIT License. For more information, please see the [LICENSE](LICENSE) file.
+Curl-Diaries is licensed under the MIT License. For more information, please see the [LICENSE](LICENSE) file.
 
 ## Acknowledgments
 
-CurlyHairBlog is based on the Mediumish for Jekyll template designed and developed by Sal from [WowThemes](https://www.wowthemes.net). The template is free to use under the MIT License.
+Curl-Diaries is based on the Mediumish for Jekyll template designed and developed by Sal from [WowThemes](https://www.wowthemes.net). The template is free to use under the MIT License.
 
 Copyright (C) 2019 Sal, https://www.wowthemes.net
