@@ -5,6 +5,7 @@ description: "Hi, I created this blog to write personal product reviews! I also 
 logo: 'assets/images/logoc-d.jpg'
 favicon: 'assets/images/logoc-d.jpg'
 #baseurl: /mediumish-theme-jekyll
+google_analytics: 'G-EXEZ0KVF17'
 disqus: 'demowebsite'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
