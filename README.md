@@ -4,8 +4,7 @@ Curl-Diaries is a blog built using a Jekyll template, demonstrating my skills in
 
 ## About Me
 I've struggled with my curly hair all my life. It took me a long time to understand how to take care of it. Now, I share my curly hair journey on TikTok @__jerrryy__ (It currently has 7k followers and 300k likes). Given the demand for product recommendations and information, I decided to create this blog to provide my TikTok audience with an easy-to-access platform for detailed product reviews and helpful tips.
-![tiktok](https://github.com/Jerusha-Manoj/Jerusha-Manoj/assets/133903427/52c0da42-8191-417c-8e7b-5272ddb0e32c)
-
+![tiktok](https://github.com/Jerusha-Manoj/Jerusha-Manoj/assets/133903427/64f19792-c8ae-4e2f-9087-7b51a18c8d00)
 ## Features
 
 - **Review Posts**: The blog homepage showcases a collection of review posts, each offering a title and a preview. Clicking on a post's title provides users with an in-depth review.
