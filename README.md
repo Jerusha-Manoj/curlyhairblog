@@ -3,8 +3,7 @@
 Curl-Diaries is a blog built using a Jekyll template, demonstrating my skills in web development, content creation, and providing valuable information for the curly hair community. The purpose of this blog is to review curly hair products based on my personal experience, while also offering curly hair tips to help individuals with their hair care routines.
 
 ## About Me
-
-I've had stuggles with my curly hair all my life. It took me a long time to understand how to take care of it. Now I share my curly hair journey on TikTok @__jerrryy__( It currently has 7k followers and 300k likes). Given the demand for product recommendations and information, I decided to create this blog to provide my TikTok audience with an easy-to-access platform for detailed product reviews and helpful tips.
+I've struggled with my curly hair all my life. It took me a long time to understand how to take care of it. Now, I share my curly hair journey on TikTok @__jerrryy__. It currently has 7k followers and 300k likes. Given the demand for product recommendations and information, I decided to create this blog to provide my TikTok audience with an easy-to-access platform for detailed product reviews and helpful tips.
 
 ## Features
 
