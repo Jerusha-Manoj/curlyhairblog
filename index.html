@@ -9,7 +9,7 @@ title: Home
 ================================================== -->
 <section class="featured-posts">
     <div class="section-title">
-        <h2><span>Featured</span></h2>
+        <h2><span>Currently Using</span></h2>
     </div>
     <div class="row">
 
@@ -27,36 +27,13 @@ title: Home
 </section>
 
 {% endif %}
-<!-- Currently Using 
-================================================== -->
-<section class="using-posts">
-    <div class="section-title">
-        <h2><span>Currently Using</span></h2>
-    </div>
-    <div class="row">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == false %}
-
-            {% include postbox.html%}
-
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
-</section>
-
-{% endif %}
-
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
 
     <div class="section-title">
 
-        <h2><span>My Reviews</span></h2>
+        <h2><span>Old Products</span></h2>
 
     </div>
 
