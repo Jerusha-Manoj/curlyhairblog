@@ -4,6 +4,8 @@ title: "Misting Spray Bottle"
 author: sal
 categories: [ spray-bottle ]
 image: assets/images/products/spraybottle.jpg
+featured: true
+hidden: true
 rating: 5
 ---
 This is a must-have. In order for curly hair products to work at their best, you should soak your hair first. I mean, really soak it.<br><br>
