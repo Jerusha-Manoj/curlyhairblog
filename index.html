@@ -27,6 +27,28 @@ title: Home
 </section>
 
 {% endif %}
+<!-- Currently Using 
+================================================== -->
+<section class="using-posts">
+    <div class="section-title">
+        <h2><span>Currently Using</span></h2>
+    </div>
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == false %}
+
+            {% include postbox.html%}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
+
+{% endif %}
 
 <!-- Posts Index
 ================================================== -->
