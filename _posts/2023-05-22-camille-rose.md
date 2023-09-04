@@ -17,4 +17,4 @@ When it comes to performance, this leave-in conditioner lives up to its promise 
 In my case, the definition of my curls went away over time after over-using the product. Some products work wonders for me, but only for a short period. Afterward, my hair tends to become frizzy once again. It's unfortunate because this product falls into that category. It's important to avoid over-moisturizing, as it can lead to issues. However, it's worth noting that when this product did work for me, it worked well. I feel like if I hadn't overused it, I would've had a better experience.<br>
 
 
-Overall, the Camille Rose Curl Love Moisture Milk Leave-in is a reliable and effective option. I believe that this could work better for me if I use it in a better way.
+Overall, the Camille Rose Curl Love Moisture Milk Leave-in is a good option. I believe that this could work better for me if I use it in a better way.
